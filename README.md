@@ -1,4 +1,7 @@
 ## Olá!!! Me chamo Yuri Condotta 👋
+Sou um entusiasta de tecnologia e estou no início da minha jornada no mundo da programação. 
+Minha principal linguagem de programação é Java, e estou constantemente aprendendo e experimentando novas tecnologias e frameworks.
+
 - 🌱 Estou estudando Java ...
 
 
